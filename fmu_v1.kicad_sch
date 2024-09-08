@@ -1,0 +1,393 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d91e1e98-f46f-4b9e-a82e-e7c6578685cd")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 55.88 151.13)
+		(size 24.13 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cfd4ece-2023-40c2-a870-a507b0760da7")
+		(property "Sheetname" "Ethernet"
+			(at 55.88 150.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ethernet.kicad_sch"
+			(at 55.88 168.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 121.92)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4804f094-5a46-497a-8062-ae868180a3a6")
+		(property "Sheetname" "Memory"
+			(at 33.02 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "memory.kicad_sch"
+			(at 33.02 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 106.68)
+		(size 22.86 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "70baaca5-4558-4f16-9156-d017f2ead75a")
+		(property "Sheetname" "sensoric"
+			(at 76.2 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensoric.kicad_sch"
+			(at 76.2 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 134.62 57.15)
+		(size 22.86 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "78536713-5193-437c-b02d-29e23c9e6cbf")
+		(property "Sheetname" "can"
+			(at 134.62 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can.kicad_sch"
+			(at 134.62 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 78.74 52.07)
+		(size 35.56 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "788fdff7-85ca-4ad5-9d5a-2b0579ddeba6")
+		(property "Sheetname" "MK66FN2M0VLQ18"
+			(at 78.74 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MK66FN2M0VLQ18.kicad_sch"
+			(at 78.74 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 50.8)
+		(size 27.94 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a927cd17-f1ce-4468-b08e-78856da2be1d")
+		(property "Sheetname" "powerbank"
+			(at 40.64 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerbank.kicad_sch"
+			(at 40.64 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 106.68)
+		(size 24.13 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b765d304-5a29-4cab-a201-1336c14f9805")
+		(property "Sheetname" "conectors2"
+			(at 107.95 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "conn2.kicad_sch"
+			(at 107.95 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 83.82)
+		(size 22.86 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7b0b75a-bfde-4ccc-868d-d8d3ec898ac1")
+		(property "Sheetname" "USB"
+			(at 50.8 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 50.8 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 109.22 83.82)
+		(size 22.86 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e093485f-5605-4953-a727-35edbeda08b7")
+		(property "Sheetname" "connectors"
+			(at 109.22 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 109.22 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 83.82)
+		(size 20.32 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecc17779-8dc3-478d-9422-959d653b63f6")
+		(property "Sheetname" "pmic"
+			(at 86.36 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pmic.kicad_sch"
+			(at 86.36 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

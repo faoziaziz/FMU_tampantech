@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d91e1e98-f46f-4b9e-a82e-e7c6578685cd")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 78.74 52.07)
+		(size 35.56 21.59)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "788fdff7-85ca-4ad5-9d5a-2b0579ddeba6")
+		(property "Sheetname" "MK66FN2M0VLQ18"
+			(at 78.74 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MK66FN2M0VLQ18.kicad_sch"
+			(at 78.74 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 50.8)
+		(size 27.94 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a927cd17-f1ce-4468-b08e-78856da2be1d")
+		(property "Sheetname" "powerbank"
+			(at 40.64 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerbank.kicad_sch"
+			(at 40.64 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 83.82)
+		(size 22.86 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d7b0b75a-bfde-4ccc-868d-d8d3ec898ac1")
+		(property "Sheetname" "USB"
+			(at 50.8 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 50.8 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 83.82)
+		(size 20.32 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecc17779-8dc3-478d-9422-959d653b63f6")
+		(property "Sheetname" "pmic"
+			(at 86.36 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pmic.kicad_sch"
+			(at 86.36 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "fmu_v1"
+				(path "/d91e1e98-f46f-4b9e-a82e-e7c6578685cd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
