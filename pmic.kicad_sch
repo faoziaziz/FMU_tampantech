@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "0ea877c3-e28f-4948-8fdc-693c2b106c23")
 	(paper "A4")
+	(title_block
+		(title "PMIC")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)

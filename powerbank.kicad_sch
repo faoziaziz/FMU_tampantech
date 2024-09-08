@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "73ab3a51-fb13-427a-99c8-16c86bf2cf5d")
 	(paper "A4")
+	(title_block
+		(title "PowerBank")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Device:C_Polarized_US"
 			(pin_numbers hide)

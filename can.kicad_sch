@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "62d04f24-6a82-428b-a8c3-d033963c114e")
 	(paper "A4")
+	(title_block
+		(title "Can")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names

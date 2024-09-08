@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "baab75be-8cd7-473e-bd31-5102ef96a416")
 	(paper "A4")
+	(title_block
+		(title "Memory")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det1"
 			(exclude_from_sim no)

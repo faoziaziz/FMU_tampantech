@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "2d582e02-9e6b-4a6c-95f6-e5a606fa6c53")
 	(paper "A4")
+	(title_block
+		(title "Connector")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names

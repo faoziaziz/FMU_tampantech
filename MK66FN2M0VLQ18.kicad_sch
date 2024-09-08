@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "b2fe653d-c039-455b-be1f-73efdd5a6b2b")
 	(paper "A4")
+	(title_block
+		(title "MicroController")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Device:Battery_Cell"
 			(pin_numbers hide)

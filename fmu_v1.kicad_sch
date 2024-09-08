@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "d91e1e98-f46f-4b9e-a82e-e7c6578685cd")
 	(paper "A4")
+	(title_block
+		(title "Architecture")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols)
 	(sheet
 		(at 55.88 151.13)

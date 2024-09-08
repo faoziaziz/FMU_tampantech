@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "e93ed236-6040-4832-b41d-8c56a5b3b383")
 	(paper "A4")
+	(title_block
+		(title "Sensoric")
+		(date "2024-09-08")
+		(rev "1")
+		(company "TampanTech")
+		(comment 1 "Drone Flight Management Unit")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)
