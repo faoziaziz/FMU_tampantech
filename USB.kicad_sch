@@ -8740,7 +8740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 177.8 27.94 0)
 			(effects
 				(font
@@ -9157,7 +9157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EVQ_P7_PAN"
+		(property "Footprint" ""
 			(at 93.98 180.34 0)
 			(effects
 				(font
@@ -9789,7 +9789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 218.44 102.87 0)
 			(effects
 				(font

@@ -12823,7 +12823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT143B_NEX"
+		(property "Footprint" ""
 			(at 217.17 77.47 0)
 			(effects
 				(font

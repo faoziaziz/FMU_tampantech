@@ -6926,7 +6926,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CONN_SM02B-GHS_JST"
+		(property "Footprint" ""
 			(at 109.22 83.82 0)
 			(effects
 				(font
@@ -7742,7 +7742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HX2QFN20_SOT1969_3X3_NXP"
+		(property "Footprint" ""
 			(at 140.97 99.06 0)
 			(effects
 				(font

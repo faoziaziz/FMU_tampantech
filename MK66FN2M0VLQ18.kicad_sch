@@ -6785,22 +6785,22 @@
 	)
 	(global_label "ADC1_V3V3"
 		(shape input)
-		(at 46.99 133.35 0)
+		(at 46.99 133.35 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "47d7e190-d46c-47e6-a9a0-1f99e708411a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.3771 133.35 0)
+			(at 46.99 146.7371 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7005,22 +7005,22 @@
 	)
 	(global_label "VREFH_32"
 		(shape input)
-		(at 50.8 123.19 0)
+		(at 50.8 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "56bc1c11-8e45-4a67-806c-67cd9bd2bdeb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.0985 123.19 0)
+			(at 38.5015 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8391,22 +8391,22 @@
 	)
 	(global_label "USB_VBUS_VALID"
 		(shape input)
-		(at 48.26 118.11 0)
+		(at 48.26 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "f0c5e8d9-321e-4646-bbee-71fba3a9ab92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.9691 118.11 0)
+			(at 29.5509 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)

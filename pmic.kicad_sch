@@ -7277,7 +7277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DQN0004A"
+		(property "Footprint" ""
 			(at 231.14 142.24 0)
 			(effects
 				(font
@@ -7356,7 +7356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 121.92 34.29 0)
 			(effects
 				(font
@@ -7429,7 +7429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -8946,7 +8946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 130.81 124.46 0)
 			(effects
 				(font
@@ -9019,7 +9019,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 148.59 132.08 0)
 			(effects
 				(font

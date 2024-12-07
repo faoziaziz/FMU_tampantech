@@ -8411,7 +8411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XQFN12_SOT1174-1_NEX_NXP"
+		(property "Footprint" ""
 			(at 60.96 49.53 0)
 			(effects
 				(font
@@ -9224,7 +9224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "3PAD_NFM15PC_0402_MUR"
+		(property "Footprint" ""
 			(at 149.86 35.56 0)
 			(effects
 				(font
@@ -11726,7 +11726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XQFN12_SOT1174-1_NEX_NXP"
+		(property "Footprint" ""
 			(at 31.75 171.45 0)
 			(effects
 				(font
