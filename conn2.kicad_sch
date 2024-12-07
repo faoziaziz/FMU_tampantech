@@ -6590,28 +6590,6 @@
 		)
 		(uuid "99f3cd39-dd0f-4f30-b8a7-f2592f57bc77")
 	)
-	(label "FMU_CH6"
-		(at 21.59 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "069b58e4-ed03-4ac3-a0d7-5cdda825c788")
-	)
-	(label "I2C1_SCL_INTERNAL"
-		(at 201.93 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c402a57-8dfc-4485-8323-6c13978c04a7")
-	)
 	(label "3V3_S"
 		(at 212.09 83.82 0)
 		(fields_autoplaced yes)
@@ -6622,94 +6600,6 @@
 			(justify left bottom)
 		)
 		(uuid "0d4b9d53-ffd0-4dc3-a964-49c8da1df6b8")
-	)
-	(label "PWM_CH5"
-		(at 187.96 135.89 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "13c4b87e-7cda-46a7-9fa5-88fd10d5dedb")
-	)
-	(label "SPI1_SCK_INTERNAL"
-		(at 204.47 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "20300b78-7401-457a-9020-876a03145a3b")
-	)
-	(label "FMU_PWM_6"
-		(at 85.09 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "207c3c21-bd95-4769-bcff-eaae9c83034e")
-	)
-	(label "UART4_RTS_B"
-		(at 40.64 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "24645662-8c27-4ef7-b27e-9e0d642be1b6")
-	)
-	(label "PWM_CH8"
-		(at 123.19 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "26bfb99d-04cf-4abd-a403-c18fdf22f04b")
-	)
-	(label "FMU_CH7"
-		(at 21.59 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "31b9eaa6-cc4a-40fb-802a-6afe62527906")
-	)
-	(label "PWM_CH4"
-		(at 187.96 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3255a693-4389-4587-8abb-5c7c8db3e70f")
-	)
-	(label "nSPI1_DRDY1_ACCEL"
-		(at 261.62 41.91 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "34069c66-c899-4bdb-8c17-7b1447fffde1")
 	)
 	(label "FMU_CH1"
 		(at 17.78 181.61 0)
@@ -6722,50 +6612,6 @@
 		)
 		(uuid "3f2fd199-1c81-47ef-b56f-f7fcc3251685")
 	)
-	(label "FMU_PWM_5"
-		(at 85.09 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "48c66281-0e50-45a6-8fe5-abf39c93f5a6")
-	)
-	(label "3V3_S"
-		(at 256.54 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4d8d815c-57e6-40cf-832f-22727bb5e89b")
-	)
-	(label "PWM_CH7"
-		(at 187.96 140.97 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5467df0b-85bd-4116-a23d-51a22bbcc866")
-	)
-	(label "PWM_CH2"
-		(at 187.96 128.27 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5e832e9d-9fa9-4b95-a5fc-61a300ff256e")
-	)
 	(label "FMU_CH4"
 		(at 17.78 173.99 0)
 		(fields_autoplaced yes)
@@ -6776,193 +6622,6 @@
 			(justify left bottom)
 		)
 		(uuid "603ea5e0-a54f-4b98-873d-5c19f33d4b75")
-	)
-	(label "FMU_CH8"
-		(at 21.59 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6254fb0c-8c0f-426b-a92e-312304fb465e")
-	)
-	(label "FMU_PWM_3"
-		(at 85.09 179.07 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6635bc02-0e9f-4a28-a719-6da92ad167c6")
-	)
-	(label "I2C1_SDA_INTERNAL"
-		(at 201.93 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "663ed7a0-99dc-4efd-9810-55a677d88d6b")
-	)
-	(label "UART4_RX"
-		(at 40.64 54.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "66e14ffd-994a-4a17-bd29-0619ce883f51")
-	)
-	(label "FMU_PWM_2"
-		(at 85.09 181.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "68d09414-8e5e-4439-80dd-d955762902da")
-	)
-	(label "PWM_CH1"
-		(at 187.96 125.73 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6c93ae65-bcc4-493a-8e85-dba4935d6eb9")
-	)
-	(label "PWM_CH6"
-		(at 123.19 124.46 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6de8541a-607f-4d61-8b23-6f90c0be0295")
-	)
-	(label "FMU_PWM_7"
-		(at 85.09 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "74fb6a5c-62d4-4f97-b6a6-3d58bb8c5d2c")
-	)
-	(label "UART4_CTS_B"
-		(at 40.64 57.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "78b18eeb-3cc4-4b79-a797-c18ee9ca5b6c")
-	)
-	(label "I2C_ADDR_B0"
-		(at 213.36 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "895e06ed-9ccb-475b-bef5-d032bb2ee7d4")
-	)
-	(label "nSPI1_CS3_ACCEL"
-		(at 261.62 46.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8a586d6c-5a67-4adc-8cd1-433fc0b4a3c6")
-	)
-	(label "FMU_PWM_1"
-		(at 85.09 184.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9eb3906e-4a25-4612-849b-f438298b518e")
-	)
-	(label "SPI1_MISO_INTERNAL"
-		(at 260.35 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a17b7cb8-0460-4866-b1f5-bc49fb6c4fdb")
-	)
-	(label "BEC"
-		(at 139.7 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a2a12a5a-fdba-4d77-bd93-71f6246a7d34")
-	)
-	(label "SPI1_MOSI_INTERNAL"
-		(at 260.35 59.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a8d2342d-f35c-433f-a8b5-a3ce84ad3b2d")
-	)
-	(label "PWM_CH8"
-		(at 187.96 143.51 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ac905c11-e95d-42a3-9d40-27fce70a871b")
-	)
-	(label "PWM_CH6"
-		(at 187.96 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ad4af746-f801-4150-853f-2b207751ce89")
 	)
 	(label "3V3_S"
 		(at 232.41 30.48 0)
@@ -6975,116 +6634,6 @@
 		)
 		(uuid "b05cf64d-1ef3-45a7-a2ea-20257f0a9726")
 	)
-	(label "FMU_PWM_8"
-		(at 85.09 119.38 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c0996ca5-486a-4c89-9535-69a0fcd21188")
-	)
-	(label "PWM_CH3"
-		(at 121.92 179.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c2f56020-3bc6-4496-b811-f774f3709aec")
-	)
-	(label "FMU_PWM_4"
-		(at 85.09 176.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd5a4ae7-9316-4a3d-9add-0651e757ceb4")
-	)
-	(label "FMU_CH5"
-		(at 21.59 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cd5e3eba-a6dc-4571-8eaf-f6c49e9e39f3")
-	)
-	(label "PWM_CH3"
-		(at 187.96 130.81 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cdf730c3-87f9-4a0e-bf55-5f681461c859")
-	)
-	(label "PWM_CH2"
-		(at 121.92 181.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d58ec0bf-ef28-40dd-a288-b1e26c931a72")
-	)
-	(label "PWM_CH7"
-		(at 123.19 121.92 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d72b89b5-a698-44e9-8e1f-12985cb6c052")
-	)
-	(label "PWM_CH4"
-		(at 121.92 176.53 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d85a3fd2-f942-4786-8142-aed398b97bef")
-	)
-	(label "I2C_ADDR_B1"
-		(at 220.98 121.92 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d973a247-a176-4fff-9fc4-161f387fe5cb")
-	)
-	(label "nSPI1_CS1_GYRO"
-		(at 203.2 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "daafbe59-f4be-400b-8eea-5fa36acb85da")
-	)
 	(label "FMU_CH3"
 		(at 17.78 176.53 0)
 		(fields_autoplaced yes)
@@ -7096,50 +6645,6 @@
 		)
 		(uuid "dd1a38ee-d9a2-444d-a7c8-ed67dcdde660")
 	)
-	(label "PWM_CH1"
-		(at 121.92 184.15 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "df964628-fc65-44cb-967e-d219a4627630")
-	)
-	(label "nSPI1_DRDY2_GYRO"
-		(at 261.62 52.07 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e6b8a7b5-4f80-4395-8b9d-1316bb501604")
-	)
-	(label "PWM_CH5"
-		(at 123.19 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ebc5e053-1d74-44d5-b362-f36cee45b2cc")
-	)
-	(label "UART4_TX"
-		(at 40.64 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f0cc42fd-a97c-4992-9773-eb58a8f4d00b")
-	)
 	(label "FMU_CH2"
 		(at 17.78 179.07 0)
 		(fields_autoplaced yes)
@@ -7150,6 +6655,996 @@
 			(justify left bottom)
 		)
 		(uuid "ffad5ab0-8424-4c77-979e-f31656f26fff")
+	)
+	(global_label "UART4_TX"
+		(shape input)
+		(at 40.64 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "015de358-fc2b-459b-b9f2-1abf461271c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.6439 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH4"
+		(shape input)
+		(at 187.96 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "057cd26c-e554-474d-8efc-b4edea28e93c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI1_MOSI_INTERNAL"
+		(shape input)
+		(at 260.35 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "109a3d22-7b99-4a12-9bb3-a8c5be30bce4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 282.9295 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH1"
+		(shape input)
+		(at 187.96 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "18eb72c0-e568-4206-9ff5-064faab6d496")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH4"
+		(shape input)
+		(at 121.92 176.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2176b1dd-0123-422b-a360-6e79456d0fb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.9844 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART4_RTS_B"
+		(shape input)
+		(at 40.64 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "297db1a7-2c67-43d9-be37-afb7e11b1cd9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.1363 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI1_MISO_INTERNAL"
+		(shape input)
+		(at 260.35 57.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "308f7e9d-0d95-4994-b72a-55b6dc1f6f3e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 282.9295 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nSPI1_CS3_ACCEL"
+		(shape input)
+		(at 261.62 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3207fe9f-42b4-4939-a590-a89f6467bce0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 281.4779 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH6"
+		(shape input)
+		(at 187.96 138.43 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3aff4c02-8b86-4193-a394-71cb01453299")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C_ADDR_B1"
+		(shape input)
+		(at 220.98 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4292a680-31f3-4585-9923-cc8a515deecb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 236.3628 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH8"
+		(shape input)
+		(at 187.96 143.51 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "43da3597-5fa8-4097-9230-7444edf7b234")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_3"
+		(shape input)
+		(at 85.09 179.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "45654d1f-624e-46e8-8d4e-5380855ded7b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH7"
+		(shape input)
+		(at 123.19 121.92 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4646e1f9-9009-4cb0-ab3e-c7ee6fd67e69")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.2544 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH7"
+		(shape input)
+		(at 187.96 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "49e9b865-5caf-4631-a34f-56199ad11c82")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI1_SCK_INTERNAL"
+		(shape input)
+		(at 204.47 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "502f083c-57d7-4a11-918a-2b712b15f55f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.7372 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_1"
+		(shape input)
+		(at 85.09 184.15 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5afe0a03-f059-48ea-b669-83dfcf4de632")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH1"
+		(shape input)
+		(at 121.92 184.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f6485eb-ecbb-4965-a5af-49da1a006112")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.9844 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH8"
+		(shape input)
+		(at 123.19 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "658d56ba-7f50-41ce-b8be-b1ece357000f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.2544 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_CH5"
+		(shape input)
+		(at 21.59 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6d9e543a-7d92-4540-8e70-cc7265c903b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.2233 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_6"
+		(shape input)
+		(at 85.09 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e6faaf8-e479-4df9-95b5-ce9b621a6063")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_8"
+		(shape input)
+		(at 85.09 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "84f137c1-47a0-493d-8602-b09e358633ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH5"
+		(shape input)
+		(at 187.96 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "89744f1b-5695-4936-8873-9676c3b19532")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C1_SCL_INTERNAL"
+		(shape input)
+		(at 201.93 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9bdd4142-261f-4bb0-b16d-ad901726ebe8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.4209 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3_S"
+		(shape input)
+		(at 256.54 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9e4a2172-f2af-4490-840d-eab161237f6c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 265.2099 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C_ADDR_B0"
+		(shape input)
+		(at 213.36 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a332f452-bf69-470c-9f00-3b1c2b6a3be0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.7428 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH3"
+		(shape input)
+		(at 121.92 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac776057-973b-4806-81d6-59ddc86a8d37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.9844 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART4_RX"
+		(shape input)
+		(at 40.64 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4e5285b-5cea-4316-881b-464c3b88d881")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3415 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH2"
+		(shape input)
+		(at 121.92 181.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b5624b5f-9473-4b2e-ae73-7f6a0b4792a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.9844 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_7"
+		(shape input)
+		(at 85.09 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b70d6ed0-5bc2-4380-aacb-c4764791c9e9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_CH8"
+		(shape input)
+		(at 21.59 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf3ba592-1753-4a3b-8e38-c1b406a7f182")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.2233 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_4"
+		(shape input)
+		(at 85.09 176.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb15b3ea-de4d-47ea-9c10-f51a088c2062")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH2"
+		(shape input)
+		(at 187.96 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cc610d5c-8019-4f34-88f8-bafe98bd8a7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_CH6"
+		(shape input)
+		(at 21.59 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1348db7-c56b-4be3-835f-ddc849df840f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.2233 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C1_SDA_INTERNAL"
+		(shape input)
+		(at 201.93 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "da0799ae-f8ba-4d88-8dc2-cfed5ff3677d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 223.4814 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nSPI1_DRDY1_ACCEL"
+		(shape input)
+		(at 261.62 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dc3b506b-1f79-4c38-8c85-ad5aa5f740fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 283.897 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_CH7"
+		(shape input)
+		(at 21.59 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dfc7da48-e147-473e-8bb3-fa6fa1431db3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 33.2233 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH3"
+		(shape input)
+		(at 187.96 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e3e8db5d-83ae-49e0-821d-caf618049cd2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 176.0244 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH5"
+		(shape input)
+		(at 123.19 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e52f16c6-c4bf-47cd-964d-32e456440ecd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.2544 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_2"
+		(shape input)
+		(at 85.09 181.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eb22058f-e505-43f5-bdad-9fdea2be06f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BEC"
+		(shape input)
+		(at 139.7 165.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed0ddeb0-2790-4d57-8f06-8e37ca2a27da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.0258 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FMU_PWM_5"
+		(shape input)
+		(at 85.09 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef3618ad-7427-4a8f-ae25-bb7bff3d3e98")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.2632 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nSPI1_CS1_GYRO"
+		(shape input)
+		(at 203.2 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef4f13cb-bfae-4611-a703-75359a38e2e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.1887 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nSPI1_DRDY2_GYRO"
+		(shape input)
+		(at 261.62 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "efa1a703-495c-4b7a-aa95-0d0f0ea8b217")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 283.0504 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART4_CTS_B"
+		(shape input)
+		(at 40.64 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efe16b0e-e3b8-440b-b694-fa38bc0a69ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.1363 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM_CH6"
+		(shape input)
+		(at 123.19 124.46 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5cbf9be-f693-4bca-abef-c8c3d22f248c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.2544 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:D_TVS_Small_Filled")

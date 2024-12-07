@@ -2332,71 +2332,137 @@
 		)
 		(uuid "c084cedb-6b1f-41b1-8b29-6c7c2e9d0501")
 	)
-	(label "CAN0_H"
-		(at 121.92 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "07ae11cd-cdc9-457d-8666-44f157d2b018")
-	)
-	(label "CAN0_TX"
-		(at 72.39 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0a2d9e47-84d6-4e6e-980b-ff8d426150b7")
-	)
-	(label "CAN0_RX"
-		(at 71.12 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1dcfea6f-2fb1-460e-a76a-44f8749651ae")
-	)
-	(label "CAN0_L"
+	(global_label "CAN0_L"
+		(shape input)
 		(at 119.38 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "3cb59f74-2237-4030-a4f9-a203692b2df0")
+		(uuid "0e00acd6-b979-4cd0-8435-259a386bb315")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.2595 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(label "X_3V3"
-		(at 67.31 81.28 0)
+	(global_label "CAN0_H"
+		(shape input)
+		(at 121.92 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "7f3678b0-a9e5-48ed-b2f3-75c5324d6293")
+		(uuid "684ed34e-94a4-46b3-9eee-dd1a06b785ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.1019 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(label "CAN0_S"
+	(global_label "CAN0_RX"
+		(shape input)
+		(at 71.12 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6b344cac-fd26-4730-81d8-d9482195e742")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.4509 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN0_S"
+		(shape input)
 		(at 77.47 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "fc75c6b0-aeb0-4da4-9ec6-c148fe5b092e")
+		(uuid "7561f110-c08d-4b9c-b56e-1cef72f65805")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.5309 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X_3V3"
+		(shape input)
+		(at 67.31 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b617a4da-dbac-436f-8472-4787ea342e35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 75.9799 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN0_TX"
+		(shape input)
+		(at 72.39 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f245c9b7-285f-4a5a-a5e1-63b8ea98355f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.4185 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:Polyfuse")

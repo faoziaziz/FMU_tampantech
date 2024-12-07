@@ -4830,50 +4830,6 @@
 		)
 		(uuid "fd23a64c-965a-4641-bd65-792d91fd8bf3")
 	)
-	(label "nVDD_3V3_SPEKTRUM_PWR_EN"
-		(at 25.4 165.1 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "01fafe88-4417-48c0-9891-21829fc56a64")
-	)
-	(label "X_3V3"
-		(at 260.35 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2745375e-30aa-498f-a92a-f32b02fc663d")
-	)
-	(label "BAT1_VSENS"
-		(at 127 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32d7146a-249d-4fe6-823c-b7ec65a5822a")
-	)
-	(label "BAT1_ISENS"
-		(at 127 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "672b43cf-4cec-4002-a2db-7aa3e5458035")
-	)
 	(label "RC_BUS_OUT"
 		(at 48.26 156.21 0)
 		(fields_autoplaced yes)
@@ -4884,28 +4840,6 @@
 			(justify left bottom)
 		)
 		(uuid "734290f9-c75f-43b5-93dc-6d25f5aa81a8")
-	)
-	(label "VDD_3V3_SENSORS_EN"
-		(at 205.74 146.05 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7ab9e8a5-6fc9-4086-8f4d-e5a012928b36")
-	)
-	(label "Power_IN"
-		(at 25.4 53.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7f2049ae-001c-4035-ba69-552c2ea09af0")
 	)
 	(label "RSSI_IN"
 		(at 49.53 143.51 180)
@@ -4918,17 +4852,6 @@
 		)
 		(uuid "a6a5018e-500a-479f-b6f4-894e2c836983")
 	)
-	(label "3V3_S"
-		(at 264.16 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a9b4cab3-c897-4c27-b493-978ad351c2bb")
-	)
 	(label "RC_INPUT"
 		(at 50.8 139.7 180)
 		(fields_autoplaced yes)
@@ -4939,6 +4862,160 @@
 			(justify right bottom)
 		)
 		(uuid "ee230b0d-d327-4456-b6e1-f2de612ec678")
+	)
+	(global_label "VDD_3V3_SENSORS_EN"
+		(shape input)
+		(at 205.74 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "02046358-11f5-48e6-9ed2-902d1568bbaf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.5278 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT1_ISENS"
+		(shape input)
+		(at 127 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0937d967-5a40-45d9-98ef-9af2803e447c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 140.9918 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3_S"
+		(shape input)
+		(at 264.16 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "490d5cd4-b2b0-4d89-975e-cafef5e9c9de")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 272.8299 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nVDD_3V3_SPEKTRUM_PWR_EN"
+		(shape input)
+		(at 25.4 165.1 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5784c7ac-1571-4acb-a1d4-f8555dff60c2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 25.4 133.5703 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Power_IN"
+		(shape input)
+		(at 25.4 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "92aebc60-d62b-41e3-9333-1aff404efb1f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 36.9124 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "X_3V3"
+		(shape input)
+		(at 260.35 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d835cf5e-4a75-4ad2-b73a-dfd177dc6674")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.0199 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BAT1_VSENS"
+		(shape input)
+		(at 127 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0075f9d-95fa-455a-8816-6a1c08362ab0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 141.4756 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")

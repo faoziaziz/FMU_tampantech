@@ -5741,17 +5741,6 @@
 		)
 		(uuid "2b572b34-ae4f-4b47-ae25-f0f7841bf41c")
 	)
-	(label "UI_LED_RED"
-		(at 15.24 144.78 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "06d6ef31-802c-44e6-a74c-a11b743310a5")
-	)
 	(label "LEDRGB_RED"
 		(at 83.82 91.44 90)
 		(fields_autoplaced yes)
@@ -5762,28 +5751,6 @@
 			(justify left bottom)
 		)
 		(uuid "08a40653-1a5b-4fe6-9d5f-43db1dfb6946")
-	)
-	(label "ULTRASOUND_ECHO"
-		(at 129.54 54.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1886a24b-d057-4c15-8892-146a58aeb4ed")
-	)
-	(label "USB1_N"
-		(at 53.34 100.33 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2bc4dd63-a25c-4d9b-b80c-bc89d6008d01")
 	)
 	(label "LEDRGB_BLUE"
 		(at 73.66 91.44 90)
@@ -5807,193 +5774,6 @@
 		)
 		(uuid "36f5c3f3-b4a9-411b-9aef-5b35851132f5")
 	)
-	(label "USB1_P"
-		(at 53.34 97.79 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "37de2aae-72d2-4111-aad1-f70dcad0f279")
-	)
-	(label "LPUART0_TX"
-		(at 35.56 26.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "39cbd28d-5bf0-4a45-803a-1082dae28634")
-	)
-	(label "USB_N"
-		(at 52.07 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4f75aaa6-7221-4e48-8b4d-91a9b4b691e6")
-	)
-	(label "I2C0_SCL_EXTERNAL"
-		(at 170.18 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5efaee7c-59c8-46dd-aa71-99a3842d33eb")
-	)
-	(label "nMCU_RESET_TP"
-		(at 59.69 165.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "62f1d32b-6390-4b43-9ddf-3dcd0b24d27f")
-	)
-	(label "NFC_IO"
-		(at 170.18 132.08 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "674d732e-1974-40c4-b7b2-6ed5d03bbc70")
-	)
-	(label "UI_LED_BLUE"
-		(at 15.24 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "710c9a4e-14ab-4d39-96f0-972b527a1453")
-	)
-	(label "LED_GREEN"
-		(at 25.4 193.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7afe0b3a-fff5-43e0-96a2-be607b31bc28")
-	)
-	(label "nMCU_RESET_TP"
-		(at 33.02 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7c28f0e5-008f-4194-9c2e-0e1781640a64")
-	)
-	(label " I2C0_SDA_EXTERNAL"
-		(at 170.18 129.54 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "82426cb8-6246-49ca-a09c-ac815a5a793b")
-	)
-	(label "USB_C_P"
-		(at 15.24 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8741362b-7adf-48ae-a4ef-2fb950e1909a")
-	)
-	(label " LED_AMBER"
-		(at 16.51 180.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "91c5b5b1-7f7e-4f0f-b852-d81f898c0d2a")
-	)
-	(label "USB_C_N"
-		(at 15.24 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a2c4ebb7-43e5-439f-ada0-882bd0238ce2")
-	)
-	(label "USB_C_N"
-		(at 15.24 100.33 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b416e83d-3902-4328-b51d-039a695117df")
-	)
-	(label "UI_LED_GREEN"
-		(at 15.24 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c0065d61-a0f4-434a-ac79-9a7bc0273dfd")
-	)
-	(label "SWD_DIO"
-		(at 33.02 31.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ce2a8605-7f8e-4c8c-853e-ee563417a0c5")
-	)
-	(label "USB_P"
-		(at 52.07 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d31fe70b-e5f5-4ae9-84d0-5581f9ee69f1")
-	)
 	(label "FTM_CLKIN0"
 		(at 99.06 152.4 180)
 		(fields_autoplaced yes)
@@ -6005,60 +5785,555 @@
 		)
 		(uuid "d809ffce-ba5f-4a56-84d5-5bf8a8512292")
 	)
-	(label "USB_C_P"
-		(at 15.24 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ddd7815d-4078-47a1-9c92-69840e8f097a")
-	)
-	(label "nMCU_RESET"
+	(global_label "nMCU_RESET"
+		(shape input)
 		(at 106.68 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "e856f87b-141d-4add-b7c4-cdab0976f8de")
+		(uuid "10f0279f-fcaf-43bf-82b0-0c9f474b96a0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.7812 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
-	(label "ULTRASOUND_TRIGGER"
+	(global_label "USB_C_N"
+		(shape input)
+		(at 15.24 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2048afe2-6eb1-4e3a-a9f8-655747194632")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5709 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LPUART0_TX"
+		(shape input)
+		(at 35.56 26.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29abb194-4f86-4005-85cb-962c30d0a1e5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.8542 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_N"
+		(shape input)
+		(at 52.07 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "313f828a-af6a-4811-827e-d0f68e6f62cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.9767 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_C_P"
+		(shape input)
+		(at 15.24 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e53508c-3609-4f1b-97db-5a355d898603")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5104 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ULTRASOUND_TRIGGER"
+		(shape input)
 		(at 129.54 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "ee39fb68-4286-4a11-9abe-c214cff1faed")
+		(uuid "56b9edfb-1449-4264-a2a2-68fbaedc3e69")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.63 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
-	(label "LPUART0_RX"
-		(at 74.93 29.21 0)
+	(global_label "USB1_P"
+		(shape input)
+		(at 53.34 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
-		(uuid "eeec1c53-3254-4041-b993-e579e6c4dedd")
+		(uuid "5961a6c1-f5f3-4387-869a-7cdad22511dd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.0977 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
-	(label "SWD_CLK"
+	(global_label "SWD_DIO"
+		(shape input)
+		(at 33.02 31.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c4c5e88-caca-4198-8000-936520b5b7df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.109 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nMCU_RESET_TP"
+		(shape input)
+		(at 59.69 165.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6bc76def-d2d0-4258-8eda-9f622ff21b58")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.794 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "_I2C0_SDA_EXTERNAL"
+		(shape input)
+		(at 170.18 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7bf87ecb-7136-4ec8-99c4-276af5afdf19")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 147.2378 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ULTRASOUND_ECHO"
+		(shape input)
+		(at 129.54 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c8690bf-968b-4ab0-b13f-5e74db152148")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 108.3514 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "nMCU_RESET_TP"
+		(shape input)
+		(at 33.02 36.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "87ebdbba-65fd-4d31-aed2-eca19d7b0fff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 51.124 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C0_SCL_EXTERNAL"
+		(shape input)
+		(at 170.18 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96581334-ac40-4baf-8b0e-6cb641c0a138")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 148.2659 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWD_CLK"
+		(shape input)
 		(at 33.02 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "f8f25d45-a5d0-4da7-aa95-fec4241da608")
+		(uuid "9bef3c33-cc89-4d37-8823-e3b72d74c7df")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.4718 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NFC_IO"
+		(shape input)
+		(at 170.18 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a2812694-3284-41af-a8fa-79a0d973e2ef")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.6028 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_P"
+		(shape input)
+		(at 52.07 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a46f9058-91f7-4973-8df6-efd654822763")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.0372 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LED_GREEN"
+		(shape input)
+		(at 25.4 193.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4ac78aa-0513-470a-91b3-c22706e096f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 11.8316 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UI_LED_BLUE"
+		(shape input)
+		(at 15.24 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b6799302-1692-47e5-9150-f3a8b28c5378")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.3204 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_C_P"
+		(shape input)
+		(at 15.24 91.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba558bd4-c9f6-4055-b477-e743ca1f7cdc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5104 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "_LED_AMBER"
+		(shape input)
+		(at 16.51 180.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c183b0f3-059b-41a2-a7f7-d040b983f790")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.1065 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UI_LED_RED"
+		(shape input)
+		(at 15.24 144.78 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c7123ac9-9615-48ad-9b8a-79c273ead47f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.2318 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB1_N"
+		(shape input)
+		(at 53.34 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5639fba-8f32-46a4-b33d-82c43996ce33")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.0372 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LPUART0_RX"
+		(shape input)
+		(at 74.93 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e2e42b77-63ad-4160-baa5-2d8511691079")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 89.5266 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UI_LED_GREEN"
+		(shape input)
+		(at 15.24 127 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed26c471-89bb-49e6-aea2-452fc653adb3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.7113 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_C_N"
+		(shape input)
+		(at 15.24 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f3c54320-2691-4639-8848-1003efa4d33a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5709 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:R_US")

@@ -1977,17 +1977,6 @@
 		)
 		(uuid "ffb80d35-d775-4e8a-a75a-0ae9f99c2e44")
 	)
-	(label "I2C1_SDA_INTERNAL"
-		(at 26.67 142.24 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1586fbd6-94b7-4cec-bf98-c1e08f9e45af")
-	)
 	(label "3V3_S"
 		(at 52.07 128.27 0)
 		(fields_autoplaced yes)
@@ -1999,60 +1988,137 @@
 		)
 		(uuid "2c386f7d-f22f-46fe-92f3-b56cddb120db")
 	)
-	(label "FTM_CLKIN0"
+	(global_label "FTM_CLKIN0"
+		(shape input)
 		(at 68.58 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "4b81347b-c48e-4703-80c3-6c89a817ba8f")
+		(uuid "2aa85c78-c79e-49c7-9f59-e240cc43b1dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.7533 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(label "USB_VBUS_VALID"
+	(global_label "USB_VBUS_VALID"
+		(shape input)
 		(at 27.94 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "69747f3c-6193-47c2-ad63-1d2152d143da")
+		(uuid "86f5320a-e260-4912-842e-481049a55ba6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.6491 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(label "I2C1_SCL_INTERNAL"
+	(global_label "I2C1_SDA_INTERNAL"
+		(shape input)
+		(at 26.67 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "874bf3fa-bfaa-45e5-9053-977055457e24")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.2214 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C1_SCL_INTERNAL"
+		(shape input)
 		(at 26.67 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "75c54008-21c7-444c-9bea-b159de7a13bb")
-	)
-	(label "3V3_OUT"
-		(at 16.51 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "d11cfd8e-7c83-432e-8566-7531182c820a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.1609 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
 			)
-			(justify left bottom)
 		)
-		(uuid "b42aa253-d234-4996-9465-8ce029c71f56")
 	)
-	(label "SCALED_V5"
+	(global_label "SCALED_V5"
+		(shape input)
 		(at 38.1 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "bb22f703-90c6-4a10-9e77-7f2a5c4f787f")
+		(uuid "d5479df2-9be8-4011-8fb1-895331d63ec0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.8339 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3_OUT"
+		(shape input)
+		(at 16.51 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e5a0fa6d-96b1-4eef-91c0-dfdf8c9311cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.599 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_US")
